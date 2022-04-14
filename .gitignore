@@ -1,3 +1,5 @@
 freeonebook
 *.o
 deps
+*.out
+.vs/
